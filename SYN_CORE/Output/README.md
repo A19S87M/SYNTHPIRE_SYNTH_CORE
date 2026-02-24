@@ -1,0 +1,2 @@
+﻿# Output
+Placeholder for D:\SYNTHPIRE_LLC\SYNTHPIRE_SYNTH_CORE\SYN_CORE\Output.
